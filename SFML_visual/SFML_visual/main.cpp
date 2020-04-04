@@ -8,7 +8,9 @@ int main()
 	// Create the main window
 	sf::RenderWindow window(sf::VideoMode(800, 600), "SFML window", sf::Style::Default);
 	
-	
+	//comment to test github desktop
+	//another comment
+
 
 	sf::Music music;
 	if (!music.openFromFile("Music/Triumph.ogg"))
